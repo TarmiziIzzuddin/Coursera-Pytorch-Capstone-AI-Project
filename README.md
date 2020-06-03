@@ -1,2 +1,2 @@
 # Coursera-Pytorch-Capstone-AI-Project
-Final capstone AI Project, Pytorch stream
+Solution for (not an official - but mine) Final capstone AI Project for Pytorch and Keras stream
